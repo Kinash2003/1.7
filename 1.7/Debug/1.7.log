@@ -1,0 +1,7 @@
+﻿  1.7.cpp
+  Money.cpp
+D:\Lab-1\1.7\1.7\Money.cpp(56,20): warning C4244: return: преобразование "double" в "long", возможна потеря данных
+D:\Lab-1\1.7\1.7\Money.cpp(60,21): warning C4244: return: преобразование "double" в "long", возможна потеря данных
+  Payment.cpp
+  Создание кода...
+  1.7.vcxproj -> D:\Lab-1\1.7\Debug\1.7.exe
